@@ -1,16 +1,15 @@
-&lt;h1 align="center"&gt;Hi, I'm Gideon Kofi Amo Appau 👋&lt;/h1&gt;
-&lt;h3 align="center"&gt;Master's Student @ USTC | Machine Learning Researcher | RL & Embodied AI&lt;/h3&gt;
+# Hi, I'm Gideon Kofi Amo Appau 👋
 
-&lt;p align="center"&gt;
-  &lt;a href="https://amo-gideon.github.io/"&gt;&lt;img src="https://img.shields.io/badge/Portfolio-amo--gideon.github.io-blue?style=flat-square&logo=github"&gt;&lt;/a&gt;
-  &lt;a href="mailto:your.email@example.com"&gt;&lt;img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail"&gt;&lt;/a&gt;
-  &lt;img src="https://img.shields.io/badge/Focus-Long--Tailed%20Recognition-green?style=flat-square"&gt;
-  &lt;img src="https://img.shields.io/badge/Focus-Reinforcement%20Learning-purple?style=flat-square"&gt;
-&lt;/p&gt;
+### Master's Student @ USTC | Machine Learning Researcher | RL & Embodied AI
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-amo--gideon.github.io-blue?style=flat-square&logo=github)](https://amo-gideon.github.io/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:your.email@example.com)
+![Focus](https://img.shields.io/badge/Focus-Long--Tailed%20Recognition-green?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-Reinforcement%20Learning-purple?style=flat-square)
 
 ---
 
-### 🔬 Research & Interests
+## 🔬 Research & Interests
 - **Long-Tailed Recognition** — Class-Adaptive Focal Loss + Sharpness-Aware Minimization (SAM)
 - **Reinforcement Learning** — Dueling DQN, PPO, A2C, VPG, RLHF
 - **Embodied AI & Robotics** — Multimodal agents, robot learning, world models
@@ -18,7 +17,7 @@
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
 | Project | Description | Tech |
 |---------|-------------|------|
@@ -30,7 +29,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 **Languages:** Python, LaTeX, SQL, JavaScript  
 **ML/DL:** PyTorch, Transformers (Hugging Face), FAISS, wandb, SwanLab  
@@ -40,16 +39,14 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-&lt;p align="center"&gt;
-  &lt;img src="https://github-readme-stats.vercel.app/api?username=Amo-Gideon&show_icons=true&theme=tokyonight" height="150"&gt;
-  &lt;img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amo-Gideon&layout=compact&theme=tokyonight" height="150"&gt;
-&lt;/p&gt;
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amo-Gideon&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amo-Gideon&layout=compact&theme=tokyonight)
 
 ---
 
-### 📚 Currently Learning
+## 📚 Currently Learning
 - 🧠 **Embodied AI** — JEPA, world models, robot learning (ManiSkill, Isaac Sim)
 - 🎨 **Diffusion & Flow Models** — For image/video generation
 - 🗣️ **Multimodal AI** — Tokenizer-free foundation models, VLM from scratch
@@ -57,13 +54,11 @@
 
 ---
 
-### 📫 Let's Connect
+## 📫 Let's Connect
 - 🌐 Portfolio: [amo-gideon.github.io](https://amo-gideon.github.io/)
 - 💼 LinkedIn: *add your link*
 - 🐦 X/Twitter: *add your handle if you have one*
 
 &gt; *"Building from first principles — one paper implementation at a time."*
 
-&lt;p align="center"&gt;
-  &lt;img src="https://komarev.com/ghpvc/?username=Amo-Gideon&color=blueviolet&style=flat-square"&gt;
-&lt;/p&gt;
+![Profile Views](https://komarev.com/ghpvc/?username=Amo-Gideon&color=blueviolet&style=flat-square)
