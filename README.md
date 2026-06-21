@@ -21,11 +21,12 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| **[Class-Adaptive-Focal-SAM](https://github.com/Amo-Gideon/Class-Adaptive-Focal-SAM)** | Thesis work: Adaptive focal loss + SAM optimizer for long-tailed datasets (CIFAR-LT, ImageNet-LT, iNaturalist) | PyTorch, Python |
-| **[dueling_dqn](https://github.com/Amo-Gideon/dueling_dqn)** | Deep RL implementation of Dueling DQN with prioritized experience replay | PyTorch, Gymnasium |
-| **[agentic-nano-task-agent](https://github.com/Amo-Gideon/agentic-nano-task-agent)** | Multi-agent orchestration with real USDC nanopayments on Arc Testnet (Agent Prime) | Python, Web3, FastAPI |
-| **[ARENA](https://github.com/Amo-Gideon/ARENA)** | Hands-on deep learning & RL course work — transformers, mechanistic interpretability, diffusion | PyTorch, JAX |
-| **[RL_Modern](https://github.com/Amo-Gideon/RL_Modern)** | Modern RL algorithms from scratch — PPO, A2C, VPG following Spinning Up & Berkeley CS 285 | PyTorch |
+| **[rl-portfolio](https://github.com/Amo-Gideon/rl-portfolio)** | RL algorithms from scratch: Dueling DQN, PPO, A2C, VPG in PyTorch | PyTorch, Gymnasium |
+| **[agentic-nano-ai](https://github.com/Amo-Gideon/agentic-nano-ai)** | Agentic AI experiments: multi-agent systems and autonomous task agents | Python, FastAPI |
+| **[Campus-Knowledge-Base-RAG](https://github.com/Amo-Gideon/Campus-Knowledge-Base-RAG)** | RAG chatbot for campus knowledge base — retrieval-augmented generation | Python, LLM, RAG |
+| **[AI-Study-Coach](https://github.com/Amo-Gideon/AI-Study-Coach)** | AI-powered interactive study assistant with personalized learning paths | Python, NLP |
+| **[FUTURE_ML_02](https://github.com/Amo-Gideon/FUTURE_ML_02)** | Resume/Candidate Screening System — automated resume parsing & ranking | Python, ML, NLP |
+| **[weather-trend-forecasting](https://github.com/Amo-Gideon/weather-trend-forecasting)** | Weather trend forecasting using time series analysis and ML models | Python, Time Series |
 
 ---
 
@@ -33,7 +34,7 @@
 
 **Languages:** Python, LaTeX, SQL, JavaScript  
 **ML/DL:** PyTorch, Transformers (Hugging Face), FAISS, wandb, SwanLab  
-**RL:** Gymnasium, Stable-Baselines3, Ray RLlib  
+**RL:** Gymnasium, Stable-Baselines3  
 **Tools:** FastAPI, Streamlit, Jupyter, VS Code, Git, Linux  
 **Cloud:** AutoDL, Google Cloud, AWS (learning)
 
