@@ -10,10 +10,10 @@
 ---
 
 ## 🔬 Research & Interests
-- **Long-Tailed Recognition** — Class-Adaptive Focal Loss + Sharpness-Aware Minimization (SAM)
-- **Reinforcement Learning** — Dueling DQN, PPO, A2C, VPG, RLHF
-- **Embodied AI & Robotics** — Multimodal agents, robot learning, world models
-- **LLM Agents & RAG** — Agentic systems with real on-chain payments (USDC)
+- **Long-Tailed Recognition** Class-Adaptive Focal Loss + Sharpness-Aware Minimization (SAM)
+- **Reinforcement Learning** Dueling DQN, PPO, A2C, VPG, RLHF
+- **Embodied AI & Robotics** Multimodal agents, robot learning, world models
+- **LLM Agents & RAG** Agentic systems with real on-chain payments (USDC)
 
 ---
 
@@ -48,10 +48,10 @@
 ---
 
 ## 📚 Currently Learning
-- 🧠 **Embodied AI** — JEPA, world models, robot learning (ManiSkill, Isaac Sim)
-- 🎨 **Diffusion & Flow Models** — For image/video generation
-- 🗣️ **Multimodal AI** — Tokenizer-free foundation models, VLM from scratch
-- 🇨🇳 **HSK3 Chinese** — Preparing for August exam
+- 🧠 **Embodied AI** JEPA, world models, robot learning (ManiSkill, Isaac Sim)
+- 🎨 **Diffusion & Flow Models** For image/video generation
+- 🗣️ **Multimodal AI** Tokenizer-free foundation models, VLM from scratch
+- 🇨🇳 **HSK3 Chinese** Preparing for August exam
 
 ---
 
