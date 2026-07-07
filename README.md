@@ -10,10 +10,10 @@
 ---
 
 ## 🔬 Research & Interests
-- **Long-Tailed Recognition** Class-Adaptive Focal Loss + Sharpness-Aware Minimization (SAM)
-- **Reinforcement Learning** Dueling DQN, PPO, A2C, VPG, RLHF
-- **Embodied AI & Robotics** Multimodal agents, robot learning, world models
-- **LLM Agents & RAG** Agentic systems with real on-chain payments (USDC)
+- **Long-Tailed Recognition**: Class-Adaptive Focal Loss + Sharpness-Aware Minimization (SAM)
+- **Reinforcement Learning**: Dueling DQN, PPO, A2C, VPG, RLHF
+- **Embodied AI & Robotics**: Multimodal agents, robot learning, world models
+- **LLM Agents & RAG**: Agentic systems with real on-chain payments (USDC)
 
 ---
 
